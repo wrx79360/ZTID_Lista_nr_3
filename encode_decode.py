@@ -1,5 +1,6 @@
-# Lista nr 3
-# Filip Kuś 85992
+#Lista nr 3
+#Zad 1
+#Filip Kuś 85992
 import base64
 
 
